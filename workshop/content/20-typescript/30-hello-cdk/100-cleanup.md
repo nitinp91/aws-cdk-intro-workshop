@@ -55,12 +55,12 @@ Resources
 
 As expected, all of our resources are going to be brutally destroyed.
 
-## cdk deploy
+## cdk destroy
 
-Run `cdk deploy` and __proceed to the next section__ (no need to wait):
+Run `cdk destroy` and __proceed to the next section__ (no need to wait):
 
 ```
-cdk deploy
+cdk destroy
 ```
 
 You should see the resources being deleted.
